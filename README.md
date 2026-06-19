@@ -56,3 +56,10 @@ Open `http://localhost:8501` and upload an image to see live predictions.
 
 ---
 Built as a portfolio project to demonstrate transfer learning and end-to-end ML deployment.
+## 📦 Model Download
+
+The trained model file (`scene_classifier.pth`) is too large for GitHub. Download it here:
+
+🔗 [Download scene_classifier.pth](https://drive.google.com/file/d/1n8DOX0IErI-qzMwf2q_nf4mwcImGpVgd/view?usp=sharing)
+
+After downloading, place the file in the project root folder (same folder as `app.py`) before running the Streamlit app.
